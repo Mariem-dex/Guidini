@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-36:\\drawable_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-38:\\drawable\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.tunisiaguide.app-debug-36:/layout_item_destination.xml.flat",
+        "source": "com.example.tunisiaguide.app-main-38:/layout/item_destination.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-36:\\layout_item_destination.xml.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-38:\\layout\\item_destination.xml"
+    },
+    {
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-36:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-38:\\layout\\activity_main.xml"
+    }
+]
