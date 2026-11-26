@@ -45,10 +45,12 @@ public class DestinationAdapter extends RecyclerView.Adapter<DestinationAdapter.
         holder.tvCategory.setText(destination.getCategory());
         holder.tvDescription.setText(destination.getDescription());
 
-        Glide.with(context)
-                .load(destination.getImageUrl())
-                .placeholder(R.drawable.ic_launcher)
-                .into(holder.ivDestination);
+        if (destination.getImageResIds() != null && !destination.getImageResIds().isEmpty()) {
+            Glide.with(context)
+                    .load(destination.getImageResIds().get(0))
+                    .placeholder(R.drawable.ic_launcher)
+                    .into(holder.ivDestination);
+        }
 
         holder.itemView.setOnClickListener(v -> {
             if (listener != null) {

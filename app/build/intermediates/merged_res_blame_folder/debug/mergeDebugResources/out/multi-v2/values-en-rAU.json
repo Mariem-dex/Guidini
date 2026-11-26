@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.tunisiaguide.app-mergeDebugResources-34:/values-en-rAU/values-en-rAU.xml",
+            "outputFile": "com.example.tunisiaguide.app-mergeDebugResources-35:/values-en-rAU/values-en-rAU.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Amal\\.gradle\\caches\\9.6.0\\transforms\\8127744b712a87bf6b112d4982c50043\\transformed\\core-1.13.0\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "source": "C:\\Users\\Amal\\.gradle\\caches\\9.6.0\\transforms\\ce21d155a01cb739b4ed73fcd179efb8\\transformed\\core-1.13.0\\res\\values-en-rAU\\values-en-rAU.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Amal\\.gradle\\caches\\9.6.0\\transforms\\e272f7a7d05031e05f73a8a79c1d807b\\transformed\\appcompat-1.7.0\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "source": "C:\\Users\\Amal\\.gradle\\caches\\9.6.0\\transforms\\72b088e58b59f403dafb7160198bdf93\\transformed\\appcompat-1.7.0\\res\\values-en-rAU\\values-en-rAU.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

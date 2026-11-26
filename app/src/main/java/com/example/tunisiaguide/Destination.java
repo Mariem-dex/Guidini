@@ -1,22 +1,33 @@
 package com.example.tunisiaguide;
 
-public class Destination {
+import java.io.Serializable;
+import java.util.List;
+
+public class Destination implements Serializable {
     private String title;
     private String description;
     private String region;
     private String category;
-    private String imageUrl;
+    private List<Integer> imageResIds;
+    private int foodImageResId;
     private double latitude;
     private double longitude;
+    private String whatToVisit;
+    private String whatToDo;
+    private String whatToEat;
 
-    public Destination(String title, String description, String region, String category, String imageUrl, double latitude, double longitude) {
+    public Destination(String title, String description, String region, String category, List<Integer> imageResIds, int foodImageResId, double latitude, double longitude, String whatToVisit, String whatToDo, String whatToEat) {
         this.title = title;
         this.description = description;
         this.region = region;
         this.category = category;
-        this.imageUrl = imageUrl;
+        this.imageResIds = imageResIds;
+        this.foodImageResId = foodImageResId;
         this.latitude = latitude;
         this.longitude = longitude;
+        this.whatToVisit = whatToVisit;
+        this.whatToDo = whatToDo;
+        this.whatToEat = whatToEat;
     }
 
     public String getTitle() {
@@ -35,8 +46,12 @@ public class Destination {
         return category;
     }
 
-    public String getImageUrl() {
-        return imageUrl;
+    public List<Integer> getImageResIds() {
+        return imageResIds;
+    }
+
+    public int getFoodImageResId() {
+        return foodImageResId;
     }
 
     public double getLatitude() {
@@ -45,5 +60,17 @@ public class Destination {
 
     public double getLongitude() {
         return longitude;
+    }
+
+    public String getWhatToVisit() {
+        return whatToVisit;
+    }
+
+    public String getWhatToDo() {
+        return whatToDo;
+    }
+
+    public String getWhatToEat() {
+        return whatToEat;
     }
 }

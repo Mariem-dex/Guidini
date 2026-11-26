@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.tunisiaguide.app-mergeDebugResources-34:/values-port/values-port.xml",
+            "outputFile": "com.example.tunisiaguide.app-mergeDebugResources-35:/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Amal\\.gradle\\caches\\9.6.0\\transforms\\e272f7a7d05031e05f73a8a79c1d807b\\transformed\\appcompat-1.7.0\\res\\values-port\\values-port.xml",
+                    "source": "C:\\Users\\Amal\\.gradle\\caches\\9.6.0\\transforms\\72b088e58b59f403dafb7160198bdf93\\transformed\\appcompat-1.7.0\\res\\values-port\\values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

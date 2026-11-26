@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.tunisiaguide.app-mergeDebugResources-34:/values-w360dp-port-v13/values-w360dp-port-v13.xml",
+            "outputFile": "com.example.tunisiaguide.app-mergeDebugResources-35:/values-w360dp-port-v13/values-w360dp-port-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Amal\\.gradle\\caches\\9.6.0\\transforms\\4d6d6f2dff93b0b7669e4a4b2fb76cd5\\transformed\\material-1.12.0\\res\\values-w360dp-port-v13\\values-w360dp-port-v13.xml",
+                    "source": "C:\\Users\\Amal\\.gradle\\caches\\9.6.0\\transforms\\7a7e3714b0df543192a6098b84dfa373\\transformed\\material-1.12.0\\res\\values-w360dp-port-v13\\values-w360dp-port-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

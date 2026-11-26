@@ -1,22 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/sand_background"
     android:orientation="vertical">
 
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/toolbar"
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
-        android:background="?attr/colorPrimary"
+        android:background="@color/tunisian_primary"
         android:elevation="4dp"
-        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+        <ImageButton
+            android:id="@+id/btnMainThemeToggle"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_gravity="end"
+            android:layout_marginEnd="8dp"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:contentDescription="Passer en mode sombre"
+            android:src="@drawable/ic_dark_mode"
+            app:tint="@color/white" />
+    </androidx.appcompat.widget.Toolbar>
+
+    <!-- Action Bar: Language + Nearby Finder (No Emojis) -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/card_background"
+        android:elevation="2dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingHorizontal="24dp"
+        android:paddingVertical="12dp">
+
+        <!-- Language Segmented Buttons -->
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/card_background"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btnFr"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/tunisian_primary"
+                android:text="FR"
+                android:textColor="@color/white"
+                android:textSize="12sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/btnEn"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/tunisian_primary_light"
+                android:text="EN"
+                android:textColor="@color/tunisian_primary"
+                android:textSize="12sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/btnAr"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/tunisian_primary_light"
+                android:text="AR"
+                android:textColor="@color/tunisian_primary"
+                android:textSize="12sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="12dp"
+            android:layout_height="match_parent" />
+
+        <!-- Nearby Button with Location Vector Icon -->
+        <Button
+            android:id="@+id/btnNearby"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:backgroundTint="@color/tunisian_primary_light"
+            android:drawableStart="@drawable/ic_location"
+            android:drawablePadding="6dp"
+            android:paddingHorizontal="12dp"
+            android:text="Proche de moi"
+            android:textAllCaps="false"
+            android:textColor="@color/tunisian_primary_dark"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:background="@color/sand_background"
         android:clipToPadding="false"
-        android:padding="8dp" />
+        android:paddingVertical="8dp" />
 
 </LinearLayout>
