@@ -30,7 +30,7 @@
         android:src="@drawable/ic_dark_mode"
         app:tint="@color/white" xmlns:app="http://schemas.android.com/apk/res-auto" />
 
-    <!-- Title "Guidini" at the top, white, bold, highly visible -->
+    <!-- Title "TuniGuide" at the top, white, bold, highly visible -->
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -41,7 +41,7 @@
         android:shadowDx="0"
         android:shadowDy="4"
         android:shadowRadius="10"
-        android:text="Guidini"
+        android:text="TuniGuide"
         android:textColor="@color/white"
         android:textSize="52sp"
         android:textStyle="bold" />

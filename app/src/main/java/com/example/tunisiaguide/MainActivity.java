@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         if (getSupportActionBar() != null) {
-            getSupportActionBar().setTitle("Guidini");
+            getSupportActionBar().setTitle("TuniGuide");
         }
 
         ImageButton btnMainThemeToggle = findViewById(R.id.btnMainThemeToggle);
@@ -222,8 +222,8 @@ public class MainActivity extends AppCompatActivity {
             allDestinations.add(new Destination("Tabarka", "Connue pour ses aiguilles rocheuses et son château génois.", "Jendouba / Nord-Ouest", "Nature / Plage", tabarkaImages, 0, 36.9544, 8.7581, "• Les Aiguilles de Tabarka.\n• Le Fort Génois.", "• Plongée sous-marine.\n• Randonnée en forêt.", "Plat Traditionnel : Oursins frais & fruits de mer."));
             allDestinations.add(new Destination("Matmata", "Maisons troglodytes souterraines uniques, décor de Star Wars.", "Gabès / Matmata", "Désert / Culture", matmataImages, R.drawable.matmata_plat, 33.5417, 9.9658, "• Maisons troglodytes.\n• Hôtel Sidi Driss (Star Wars).", "• Explorer l'architecture sous terre.\n• Rencontrer les Berbères.", "Plat Traditionnel : Pain Tabouna & Mlaoui."));
             allDestinations.add(new Destination("Bizerte", "Charmante ville portuaire du nord avec son vieux port.", "Bizerte", "Plage / Nature", bizerteImages, R.drawable.bizerte_plat, 37.2744, 9.8739, "• Le vieux port de pêche.\n• La Kasbah.", "• Se promener le long de la marina.\n• Se baigner à Cap Angela.", "Plat Traditionnel : Sandwich Lablabi & ragoût d'poulpe."));
-            allDestinations.add(new Destination("Sousse", "Ville côtière historique avec un Ribat millénaire.", "Sousse", "Historique / Plage", sousseImages, 0, 35.8256, 10.6369, "• Le Ribat de Sousse.\n• La Grande Mosquée.", "• Shopping dans les souks.\n• Plage de Bou Jaafar.", "Plat Traditionnel : Couscous au poisson de Sousse."));
-            allDestinations.add(new Destination("Monastir", "Superbe cité côtière avec une immense forteresse.", "Monastir", "Historique / Plage", monastirImages, R.drawable.monastir_plat, 35.7643, 10.8113, "• Le Ribat de Harthhema.\n• Mausolée Bourguiba.", "• Grimper sur la tour du Ribat.\n• Promenade sur la corniche.", "Plat Traditionnel : Couscous Cherkaw (couscous cherkaw)."));
+            allDestinations.add(new Destination("Sousse", "Ville côtière historique avec un Ribat millénaire.", "Sousse", "Historical / Beach", sousseImages, 0, 35.8256, 10.6369, "• Le Ribat de Sousse.\n• La Grande Mosquée.", "• Shopping dans les souks.\n• Plage de Bou Jaafar.", "Plat Traditionnel : Couscous au poisson de Sousse."));
+            allDestinations.add(new Destination("Monastir", "Superbe cité côtière avec une immense forteresse.", "Monastir", "Historical / Beach", monastirImages, R.drawable.monastir_plat, 35.7643, 10.8113, "• Le Ribat de Harthhema.\n• Mausolée Bourguiba.", "• Grimper sur la tour du Ribat.\n• Promenade sur la corniche.", "Plat Traditionnel : Couscous Cherkaw (couscous cherkaw)."));
         }
         destinationList.clear();
         destinationList.addAll(allDestinations);

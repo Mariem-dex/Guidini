@@ -3718,6 +3718,7 @@ id tvDetailEat
 id tvDetailRegion
 id tvDetailTitle
 id tvDetailVisit
+id tvDetailWeather
 id tvRegion
 id tvTitle
 id unchecked

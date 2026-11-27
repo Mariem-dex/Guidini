@@ -1,10 +1,10 @@
 <resources>
     <!-- Thème Blanc, Rouge Harissa (clair et foncé) et Gris très clair -->
-    <color name="tunisian_primary">#D93A1E</color>
+    <color name="tunisian_primary">#9A0007</color>
     <color name="tunisian_primary_dark">#9A0007</color>
     <color name="tunisian_primary_light">#FDE8E6</color>
 
-    <color name="harissa_red">#D93A1E</color>
+    <color name="harissa_red">#9A0007</color>
 
     <color name="sand_background">#F7F9FC</color>
     <color name="card_background">#FFFFFF</color>

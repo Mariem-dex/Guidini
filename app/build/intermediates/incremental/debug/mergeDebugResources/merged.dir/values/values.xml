@@ -701,7 +701,7 @@
     <color name="error_color_material_light">#ff5722</color>
     <color name="foreground_material_dark">@android:color/white</color>
     <color name="foreground_material_light">@android:color/black</color>
-    <color name="harissa_red">#D93A1E</color>
+    <color name="harissa_red">#9A0007</color>
     <color name="highlighted_text_material_dark">#6680cbc4</color>
     <color name="highlighted_text_material_light">#66009688</color>
     <color name="m3_ref_palette_black">#ff000000</color>
@@ -966,7 +966,7 @@
     <color name="text_secondary">#4A5568</color>
     <color name="tooltip_background_dark">#e6616161</color>
     <color name="tooltip_background_light">#e6FFFFFF</color>
-    <color name="tunisian_primary">#D93A1E</color>
+    <color name="tunisian_primary">#9A0007</color>
     <color name="tunisian_primary_dark">#9A0007</color>
     <color name="tunisian_primary_light">#FDE8E6</color>
     <color name="white">#FFFFFF</color>
@@ -1993,7 +1993,7 @@
     <string name="about">About</string>
     <string name="about_message">This software uses map data provided by OpenStreetMap.org</string>
     <string name="androidx_startup" translatable="false">androidx.startup</string>
-    <string name="app_name">Guidini</string>
+    <string name="app_name">TuniGuide</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="base">OSM base layer</string>
     <string name="base_nl">Netherlands base overlay</string>
