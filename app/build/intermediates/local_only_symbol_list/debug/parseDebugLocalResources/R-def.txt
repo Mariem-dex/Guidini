@@ -36,6 +36,10 @@ drawable carthage_folder_2
 drawable carthage_folder_3
 drawable carthage_folder_4
 drawable djerba
+drawable djerba_folder_1
+drawable djerba_folder_2
+drawable djerba_folder_3
+drawable djerba_folder_4
 drawable eljem
 drawable hammamet
 drawable ic_arrow_forward
@@ -79,6 +83,11 @@ drawable tabarka_3
 drawable tabarka_4
 drawable tabarka_5
 drawable tozeur
+drawable tozeur_folder_1
+drawable tozeur_folder_2
+drawable tozeur_folder_3
+drawable tozeur_folder_4
+drawable tozeur_folder_5
 id btnAr
 id btnDetailThemeToggle
 id btnEn

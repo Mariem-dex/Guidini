@@ -3049,6 +3049,10 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable djerba
+drawable djerba_folder_1
+drawable djerba_folder_2
+drawable djerba_folder_3
+drawable djerba_folder_4
 drawable eljem
 drawable hammamet
 drawable ic_arrow_back_black_24
@@ -3205,6 +3209,11 @@ drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable tozeur
+drawable tozeur_folder_1
+drawable tozeur_folder_2
+drawable tozeur_folder_3
+drawable tozeur_folder_4
+drawable tozeur_folder_5
 drawable twotone_navigation_black_48
 drawable zoom_in
 drawable zoom_out

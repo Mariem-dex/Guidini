@@ -121,7 +121,6 @@ public class MainActivity extends AppCompatActivity {
             getAutomaticGpsLocationAndSort();
         } else {
             Toast.makeText(this, "Permission GPS requise pour calculer la distance exacte.", Toast.LENGTH_SHORT).show();
-            // Fallback default sorting from Tunis center
             sortDestinationsByGps(36.8065, 10.1815);
         }
     }
@@ -145,7 +144,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void sortDestinationsByGps(double userLat, double userLng) {
-        // Calculate exact distance in km for all destinations
         class DestinationDistance implements Comparable<DestinationDistance> {
             Destination destination;
             float distanceKm;
@@ -177,7 +175,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
         adapter.notifyDataSetChanged();
-        Toast.makeText(this, "Localisation GPS automatique reussie ! Lieux triés du plus proche au plus éloigné.", Toast.LENGTH_LONG).show();
+        Toast.makeText(this, "Localisation GPS automatique réussie ! Lieux triés du plus proche au plus éloigné.", Toast.LENGTH_LONG).show();
     }
 
     private void updateLanguageButtons(String activeLang) {
@@ -216,9 +214,9 @@ public class MainActivity extends AppCompatActivity {
         List<Integer> sbsImages = Arrays.asList(R.drawable.sidibousaid_folder_1, R.drawable.sidibousaid_folder_2, R.drawable.sidibousaid_folder_3, R.drawable.sidibousaid_folder_4);
         List<Integer> carthageImages = Arrays.asList(R.drawable.carthage_folder_1, R.drawable.carthage_folder_2, R.drawable.carthage_folder_3, R.drawable.carthage_folder_4);
         List<Integer> eljemImages = Arrays.asList(R.drawable.eljem, R.drawable.carthage, R.drawable.sousse_1);
-        List<Integer> djerbaImages = Arrays.asList(R.drawable.djerba, R.drawable.tozeur, R.drawable.hammamet);
-        List<Integer> hammametImages = Arrays.asList(R.drawable.hammamet, R.drawable.djerba, R.drawable.sidibousaid_folder_1);
-        List<Integer> tozeurImages = Arrays.asList(R.drawable.tozeur, R.drawable.matmata_1, R.drawable.djerba);
+        List<Integer> djerbaImages = Arrays.asList(R.drawable.djerba_folder_1, R.drawable.djerba_folder_2, R.drawable.djerba_folder_3, R.drawable.djerba_folder_4);
+        List<Integer> hammametImages = Arrays.asList(R.drawable.hammamet, R.drawable.djerba_folder_1, R.drawable.sidibousaid_folder_1);
+        List<Integer> tozeurImages = Arrays.asList(R.drawable.tozeur_folder_1, R.drawable.tozeur_folder_2, R.drawable.tozeur_folder_3, R.drawable.tozeur_folder_4, R.drawable.tozeur_folder_5);
         List<Integer> kairouanImages = Arrays.asList(R.drawable.kairouan_1, R.drawable.kairouan);
         List<Integer> tabarkaImages = Arrays.asList(R.drawable.tabarka_1, R.drawable.tabarka_2, R.drawable.tabarka_3, R.drawable.tabarka_4, R.drawable.tabarka_5);
         

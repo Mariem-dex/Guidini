@@ -1,7 +1,7 @@
 <resources>
     <style name="Theme.TunisiaGuide" parent="Theme.Material3.Light.NoActionBar">
         <item name="colorPrimary">@color/tunisian_primary</item>
-        <item name="colorPrimaryDark">@color/tunisian_primary_dark</item>
+        <item name="colorPrimaryDark">@color/harissa_red</item>
         <item name="colorSecondary">@color/tunisian_primary_light</item>
         <item name="android:windowBackground">@color/sand_background</item>
     </style>
