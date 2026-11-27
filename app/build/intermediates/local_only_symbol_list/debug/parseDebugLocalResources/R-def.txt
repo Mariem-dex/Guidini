@@ -41,6 +41,7 @@ drawable ic_arrow_forward
 drawable ic_dark_mode
 drawable ic_hiking
 drawable ic_launcher
+drawable ic_launcher_round
 drawable ic_light_mode
 drawable ic_location
 drawable ic_museum
