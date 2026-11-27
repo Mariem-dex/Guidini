@@ -11,6 +11,7 @@ import android.location.Location;
 import android.location.LocationManager;
 import android.os.Bundle;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.Toast;
 
@@ -212,13 +213,13 @@ public class MainActivity extends AppCompatActivity {
         allDestinations.clear();
         
         List<Integer> sbsImages = Arrays.asList(R.drawable.sidibousaid_folder_1, R.drawable.sidibousaid_folder_2, R.drawable.sidibousaid_folder_3, R.drawable.sidibousaid_folder_4);
-        List<Integer> carthageImages = Arrays.asList(R.drawable.carthage_folder_1, R.drawable.carthage_folder_2, R.drawable.carthage_folder_3, R.drawable.carthage_folder_4);
+        List<Integer> carthageImages = Arrays.asList(R.drawable.carthage, R.drawable.carthage_folder_1, R.drawable.carthage_folder_2, R.drawable.carthage_folder_3, R.drawable.carthage_folder_4);
         List<Integer> eljemImages = Arrays.asList(R.drawable.eljem, R.drawable.carthage, R.drawable.sousse_1);
-        List<Integer> djerbaImages = Arrays.asList(R.drawable.djerba_folder_1, R.drawable.djerba_folder_2, R.drawable.djerba_folder_3, R.drawable.djerba_folder_4);
-        List<Integer> hammametImages = Arrays.asList(R.drawable.hammamet, R.drawable.djerba_folder_1, R.drawable.sidibousaid_folder_1);
-        List<Integer> tozeurImages = Arrays.asList(R.drawable.tozeur_folder_1, R.drawable.tozeur_folder_2, R.drawable.tozeur_folder_3, R.drawable.tozeur_folder_4, R.drawable.tozeur_folder_5);
+        List<Integer> djerbaImages = Arrays.asList(R.drawable.djerba, R.drawable.djerba_folder_1, R.drawable.djerba_folder_2, R.drawable.djerba_folder_3, R.drawable.djerba_folder_4);
+        List<Integer> hammametImages = Arrays.asList(R.drawable.hammamet, R.drawable.djerba, R.drawable.sidibousaid_folder_1);
+        List<Integer> tozeurImages = Arrays.asList(R.drawable.tozeur, R.drawable.tozeur_folder_1, R.drawable.tozeur_folder_2, R.drawable.tozeur_folder_3, R.drawable.tozeur_folder_4, R.drawable.tozeur_folder_5);
         List<Integer> kairouanImages = Arrays.asList(R.drawable.kairouan_1, R.drawable.kairouan);
-        List<Integer> tabarkaImages = Arrays.asList(R.drawable.tabarka_1, R.drawable.tabarka_2, R.drawable.tabarka_3, R.drawable.tabarka_4, R.drawable.tabarka_5);
+        List<Integer> tabarkaImages = Arrays.asList(R.drawable.tabarka, R.drawable.tabarka_1, R.drawable.tabarka_2, R.drawable.tabarka_3, R.drawable.tabarka_4, R.drawable.tabarka_5);
         
         List<Integer> matmataImages = Arrays.asList(R.drawable.matmata_1, R.drawable.matmata_2, R.drawable.matmata_3, R.drawable.matmata_4);
         List<Integer> bizerteImages = Arrays.asList(R.drawable.bizerte_1, R.drawable.bizerte_2, R.drawable.bizerte_3, R.drawable.bizerte_4, R.drawable.bizerte_5);
