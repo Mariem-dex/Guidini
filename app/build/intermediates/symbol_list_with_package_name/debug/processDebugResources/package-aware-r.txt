@@ -3214,6 +3214,7 @@ drawable tozeur_folder_2
 drawable tozeur_folder_3
 drawable tozeur_folder_4
 drawable tozeur_folder_5
+drawable tozeur_folder_plat
 drawable tozeur_plat
 drawable twotone_navigation_black_48
 drawable zoom_in
@@ -3337,6 +3338,7 @@ id buttonPanel
 id cache_measures
 id callMeasure
 id cancel_button
+id cardFoodSection
 id carryVelocity
 id center
 id centerCrop

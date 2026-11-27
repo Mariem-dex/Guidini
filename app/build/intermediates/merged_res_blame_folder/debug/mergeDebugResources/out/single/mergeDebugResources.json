@@ -64,6 +64,10 @@
         "source": "com.example.tunisiaguide.app-main-39:/drawable/ic_arrow_forward.xml"
     },
     {
+        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_tozeur_folder_plat.jpg.flat",
+        "source": "com.example.tunisiaguide.app-main-39:/drawable/tozeur_folder_plat.jpg"
+    },
+    {
         "merged": "com.example.tunisiaguide.app-debug-37:/drawable_carthage_folder_1.jpg.flat",
         "source": "com.example.tunisiaguide.app-main-39:/drawable/carthage_folder_1.jpg"
     },

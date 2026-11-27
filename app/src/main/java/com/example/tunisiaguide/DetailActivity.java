@@ -53,6 +53,7 @@ public class DetailActivity extends AppCompatActivity {
         ImageSliderAdapter sliderAdapter = new ImageSliderAdapter(this, destination.getImageResIds());
         viewPagerPhotos.setAdapter(sliderAdapter);
 
+        View cardFoodSection = findViewById(R.id.cardFoodSection);
         ImageView ivFoodImage = findViewById(R.id.ivFoodImage);
         TextView tvTitle = findViewById(R.id.tvDetailTitle);
         TextView tvRegion = findViewById(R.id.tvDetailRegion);
@@ -65,13 +66,13 @@ public class DetailActivity extends AppCompatActivity {
         Button btnMap = findViewById(R.id.btnMap);
 
         if (destination.getFoodImageResId() != 0) {
-            ivFoodImage.setVisibility(View.VISIBLE);
+            cardFoodSection.setVisibility(View.VISIBLE);
             Glide.with(this)
                     .load(destination.getFoodImageResId())
                     .placeholder(R.drawable.ic_launcher)
                     .into(ivFoodImage);
         } else {
-            ivFoodImage.setVisibility(View.GONE);
+            cardFoodSection.setVisibility(View.GONE);
         }
 
         tvTitle.setText(destination.getTitle());
