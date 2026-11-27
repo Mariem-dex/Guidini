@@ -107,9 +107,9 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Amal\.gradle\cache
 	android:label
 		ADDED from C:\Users\Amal\AndroidStudioProjects\TunisiaGuide\app\src\main\AndroidManifest.xml:13:9-41
 	android:roundIcon
-		ADDED from C:\Users\Amal\AndroidStudioProjects\TunisiaGuide\app\src\main\AndroidManifest.xml:14:9-56
+		ADDED from C:\Users\Amal\AndroidStudioProjects\TunisiaGuide\app\src\main\AndroidManifest.xml:14:9-54
 	android:icon
-		ADDED from C:\Users\Amal\AndroidStudioProjects\TunisiaGuide\app\src\main\AndroidManifest.xml:12:9-45
+		ADDED from C:\Users\Amal\AndroidStudioProjects\TunisiaGuide\app\src\main\AndroidManifest.xml:12:9-49
 	android:allowBackup
 		ADDED from C:\Users\Amal\AndroidStudioProjects\TunisiaGuide\app\src\main\AndroidManifest.xml:11:9-35
 	android:theme

@@ -76,12 +76,12 @@
 43-->[androidx.core:core:1.13.0] C:\Users\Amal\.gradle\caches\9.6.0\transforms\ce21d155a01cb739b4ed73fcd179efb8\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
 44        android:debuggable="true"
 45        android:extractNativeLibs="false"
-46        android:icon="@drawable/ic_launcher"
-46-->C:\Users\Amal\AndroidStudioProjects\TunisiaGuide\app\src\main\AndroidManifest.xml:12:9-45
+46        android:icon="@drawable/app_icon_custom"
+46-->C:\Users\Amal\AndroidStudioProjects\TunisiaGuide\app\src\main\AndroidManifest.xml:12:9-49
 47        android:label="@string/app_name"
 47-->C:\Users\Amal\AndroidStudioProjects\TunisiaGuide\app\src\main\AndroidManifest.xml:13:9-41
-48        android:roundIcon="@drawable/ic_launcher_round"
-48-->C:\Users\Amal\AndroidStudioProjects\TunisiaGuide\app\src\main\AndroidManifest.xml:14:9-56
+48        android:roundIcon="@drawable/app_icon_custom"
+48-->C:\Users\Amal\AndroidStudioProjects\TunisiaGuide\app\src\main\AndroidManifest.xml:14:9-54
 49        android:supportsRtl="true"
 49-->C:\Users\Amal\AndroidStudioProjects\TunisiaGuide\app\src\main\AndroidManifest.xml:15:9-35
 50        android:theme="@style/Theme.TunisiaGuide" >

@@ -1,294 +1,298 @@
 [
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_bg_tunisia.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/bg_tunisia.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_tabarka_5.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\tabarka_5.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_bizerte_2.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/bizerte_2.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_sidibousaid.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\sidibousaid.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_ic_hiking.xml.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/ic_hiking.xml"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_carthage_folder_1.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\carthage_folder_1.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_kairouan_plat.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/kairouan_plat.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_bizerte_1.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\bizerte_1.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_ic_light_mode.xml.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/ic_light_mode.xml"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_tozeur.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\tozeur.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_sidibousaid_folder_3.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/sidibousaid_folder_3.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\layout\\activity_detail.xml"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_carthage_folder_4.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/carthage_folder_4.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_bg_card_border.xml.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\bg_card_border.xml"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_bg_white_circle.xml.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/bg_white_circle.xml"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\layout_item_slider_image.xml.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\layout\\item_slider_image.xml"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_monastir_3.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/monastir_3.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_sidibousaid_folder_3.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\sidibousaid_folder_3.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/xml_queries.xml.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/xml/queries.xml"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_sousse_2.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\sousse_2.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/layout_activity_main.xml.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/layout/activity_main.xml"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_bizerte_5.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\bizerte_5.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_djerba.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/djerba.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_sidibousaid_folder_plat.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\sidibousaid_folder_plat.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_ic_arrow_forward.xml.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/ic_arrow_forward.xml"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_bg_white_circle.xml.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\bg_white_circle.xml"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_carthage_folder_1.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/carthage_folder_1.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_tabarka_1.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\tabarka_1.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_sousse_2.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/sousse_2.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_ic_location.xml.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\ic_location.xml"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_tabarka_5.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/tabarka_5.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_bg_button_white.xml.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\bg_button_white.xml"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_bizerte_3.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/bizerte_3.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_monastir_4.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\monastir_4.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_bizerte_1.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/bizerte_1.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_matmata_2.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\matmata_2.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/layout_item_destination.xml.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/layout/item_destination.xml"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_ic_light_mode.xml.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\ic_light_mode.xml"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_bg_button_white.xml.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/bg_button_white.xml"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_bizerte_2.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\bizerte_2.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_monastir_1.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/monastir_1.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_kairouan_1.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\kairouan_1.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_kairouan_1.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/kairouan_1.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_tabarka.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\tabarka.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_sousse_4.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/sousse_4.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_matmata_plat.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\matmata_plat.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_eljem.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/eljem.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_carthage_folder_2.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\carthage_folder_2.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_matmata_plat.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/matmata_plat.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_monastir_3.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\monastir_3.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_ic_restaurant.xml.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/ic_restaurant.xml"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_sidibousaid_folder_4.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\sidibousaid_folder_4.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_matmata_3.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/matmata_3.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_tabarka_4.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\tabarka_4.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_sidibousaid_folder_4.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/sidibousaid_folder_4.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_ic_museum.xml.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\ic_museum.xml"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_tabarka_2.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/tabarka_2.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_matmata_4.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\matmata_4.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_monastir_4.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/monastir_4.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_bg_splash_gradient.xml.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\bg_splash_gradient.xml"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_bg_white_translucent_pill.xml.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/bg_white_translucent_pill.xml"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\xml_queries.xml.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\xml\\queries.xml"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/layout_activity_detail.xml.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/layout/activity_detail.xml"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_bg_light_blue_chip.xml.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\bg_light_blue_chip.xml"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_bg_card_border.xml.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/bg_card_border.xml"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_sousse_3.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\sousse_3.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_tozeur.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/tozeur.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_bg_tunisia.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\bg_tunisia.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/layout_activity_splash.xml.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/layout/activity_splash.xml"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_bizerte_plat.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\bizerte_plat.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_sidibousaid_folder_1.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/sidibousaid_folder_1.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_kairouan_plat.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\kairouan_plat.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_bg_badge.xml.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/bg_badge.xml"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_matmata_1.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\matmata_1.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_ic_museum.xml.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/ic_museum.xml"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_ic_arrow_forward.xml.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\ic_arrow_forward.xml"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_carthage_folder_2.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/carthage_folder_2.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\layout_item_destination.xml.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\layout\\item_destination.xml"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_sousse_1.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/sousse_1.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_tabarka.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/tabarka.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_djerba.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\djerba.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_bizerte_4.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/bizerte_4.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_ic_dark_mode.xml.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/ic_dark_mode.xml"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_bg_button_harissa.xml.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\bg_button_harissa.xml"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_tabarka_4.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/tabarka_4.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_monastir_2.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\monastir_2.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_monastir_2.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/monastir_2.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_tabarka_3.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\tabarka_3.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_hammamet.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/hammamet.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_sousse_5.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/sousse_5.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_ic_dark_mode.xml.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\ic_dark_mode.xml"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_tabarka_1.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/tabarka_1.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_bg_golden_circle.xml.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\bg_golden_circle.xml"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_sidibousaid_folder_2.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/sidibousaid_folder_2.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_kairouan.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\kairouan.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_carthage.webp.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/carthage.webp"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_monastir_plat.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\monastir_plat.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_ic_launcher_round.xml.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/ic_launcher_round.xml"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_carthage_folder_3.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\carthage_folder_3.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_bg_circle.xml.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/bg_circle.xml"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_sousse_1.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\sousse_1.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_matmata_2.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/matmata_2.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_sidibousaid_folder_1.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\sidibousaid_folder_1.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_ic_location.xml.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/ic_location.xml"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\layout\\activity_splash.xml"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_monastir_plat.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/monastir_plat.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_bg_white_translucent_pill.xml.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\bg_white_translucent_pill.xml"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_kairouan.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/kairouan.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_carthage.webp.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\carthage.webp"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_monastir_5.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/monastir_5.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_eljem.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\eljem.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_ic_launcher.xml.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/ic_launcher.xml"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_bg_circle.xml.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\bg_circle.xml"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_carthage_folder_3.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/carthage_folder_3.jpg"
+        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_app_icon_custom.jpg.flat",
+        "source": "com.example.tunisiaguide.app-main-39:/drawable/app_icon_custom.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_bizerte_plat.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/bizerte_plat.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_bizerte_3.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\bizerte_3.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_sidibousaid_folder_plat.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/sidibousaid_folder_plat.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_sousse_4.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\sousse_4.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_bg_light_blue_chip.xml.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/bg_light_blue_chip.xml"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_ic_restaurant.xml.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\ic_restaurant.xml"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_bg_button_harissa.xml.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/bg_button_harissa.xml"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_sousse_5.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\sousse_5.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_tabarka_3.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/tabarka_3.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_monastir_1.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\monastir_1.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_bg_splash_gradient.xml.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/bg_splash_gradient.xml"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_hammamet.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\hammamet.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_bizerte_5.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/bizerte_5.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_ic_hiking.xml.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\ic_hiking.xml"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_bg_golden_circle.xml.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/bg_golden_circle.xml"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_bizerte_4.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\bizerte_4.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_matmata_4.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/matmata_4.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_carthage_folder_4.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\carthage_folder_4.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_bg_turquoise_chip.xml.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/bg_turquoise_chip.xml"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_bg_badge.xml.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\bg_badge.xml"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_sidibousaid.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/sidibousaid.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_monastir_5.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\monastir_5.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/layout_item_slider_image.xml.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/layout/item_slider_image.xml"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_bg_turquoise_chip.xml.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\bg_turquoise_chip.xml"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_sousse_3.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/sousse_3.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_matmata_3.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\matmata_3.jpg"
     },
     {
-        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_matmata_1.jpg.flat",
-        "source": "com.example.tunisiaguide.app-main-39:/drawable/matmata_1.jpg"
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_tabarka_2.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\tabarka_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-debug-37:\\drawable_sidibousaid_folder_2.jpg.flat",
+        "source": "C:\\Users\\Amal\\.gradle\\daemon\\9.6.0\\com.example.tunisiaguide.app-main-39:\\drawable\\sidibousaid_folder_2.jpg"
     }
 ]

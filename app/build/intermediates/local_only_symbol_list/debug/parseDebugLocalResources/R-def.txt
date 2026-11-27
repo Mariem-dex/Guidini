@@ -11,6 +11,7 @@ color tunisian_primary
 color tunisian_primary_dark
 color tunisian_primary_light
 color white
+drawable app_icon_custom
 drawable bg_badge
 drawable bg_button_harissa
 drawable bg_button_white
