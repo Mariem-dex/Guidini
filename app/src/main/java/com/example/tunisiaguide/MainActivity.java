@@ -11,7 +11,6 @@ import android.location.Location;
 import android.location.LocationManager;
 import android.os.Bundle;
 import android.widget.Button;
-import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.Toast;
 
@@ -145,38 +144,27 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void sortDestinationsByGps(double userLat, double userLng) {
-        class DestinationDistance implements Comparable<DestinationDistance> {
-            Destination destination;
-            float distanceKm;
+        List<Destination> listCopy = new ArrayList<>(allDestinations);
 
-            DestinationDistance(Destination destination, float distanceKm) {
-                this.destination = destination;
-                this.distanceKm = distanceKm;
-            }
+        Collections.sort(listCopy, (d1, d2) -> {
+            float[] results1 = new float[1];
+            Location.distanceBetween(userLat, userLng, d1.getLatitude(), d1.getLongitude(), results1);
 
-            @Override
-            public int compareTo(DestinationDistance o) {
-                return Float.compare(this.distanceKm, o.distanceKm);
-            }
-        }
+            float[] results2 = new float[1];
+            Location.distanceBetween(userLat, userLng, d2.getLatitude(), d2.getLongitude(), results2);
 
-        List<DestinationDistance> listWithDistance = new ArrayList<>();
-        for (Destination d : allDestinations) {
-            float[] results = new float[1];
-            Location.distanceBetween(userLat, userLng, d.getLatitude(), d.getLongitude(), results);
-            float distKm = results[0] / 1000f;
-            listWithDistance.add(new DestinationDistance(d, distKm));
-        }
-
-        Collections.sort(listWithDistance);
+            return Float.compare(results1[0], results2[0]);
+        });
 
         destinationList.clear();
-        for (DestinationDistance item : listWithDistance) {
-            destinationList.add(item.destination);
-        }
-
+        destinationList.addAll(listCopy);
         adapter.notifyDataSetChanged();
-        Toast.makeText(this, "Localisation GPS automatique réussie ! Lieux triés du plus proche au plus éloigné.", Toast.LENGTH_LONG).show();
+
+        float[] closestDist = new float[1];
+        Location.distanceBetween(userLat, userLng, destinationList.get(0).getLatitude(), destinationList.get(0).getLongitude(), closestDist);
+        int km = Math.round(closestDist[0] / 1000f);
+
+        Toast.makeText(this, "Lieux triés par proximité ! Le plus proche : " + destinationList.get(0).getTitle() + " (" + km + " km)", Toast.LENGTH_LONG).show();
     }
 
     private void updateLanguageButtons(String activeLang) {
@@ -212,13 +200,14 @@ public class MainActivity extends AppCompatActivity {
     private void loadDestinations(String lang) {
         allDestinations.clear();
         
-        List<Integer> sbsImages = Arrays.asList(R.drawable.sidibousaid_folder_1, R.drawable.sidibousaid_folder_2, R.drawable.sidibousaid_folder_3, R.drawable.sidibousaid_folder_4);
+        // Strictly isolated photos per destination
+        List<Integer> sbsImages = Arrays.asList(R.drawable.sidibousaid, R.drawable.sidibousaid_folder_1, R.drawable.sidibousaid_folder_2, R.drawable.sidibousaid_folder_3, R.drawable.sidibousaid_folder_4);
         List<Integer> carthageImages = Arrays.asList(R.drawable.carthage, R.drawable.carthage_folder_1, R.drawable.carthage_folder_2, R.drawable.carthage_folder_3, R.drawable.carthage_folder_4);
-        List<Integer> eljemImages = Arrays.asList(R.drawable.eljem, R.drawable.carthage, R.drawable.sousse_1);
+        List<Integer> eljemImages = Arrays.asList(R.drawable.eljem);
         List<Integer> djerbaImages = Arrays.asList(R.drawable.djerba, R.drawable.djerba_folder_1, R.drawable.djerba_folder_2, R.drawable.djerba_folder_3, R.drawable.djerba_folder_4);
-        List<Integer> hammametImages = Arrays.asList(R.drawable.hammamet, R.drawable.djerba, R.drawable.sidibousaid_folder_1);
+        List<Integer> hammametImages = Arrays.asList(R.drawable.hammamet);
         List<Integer> tozeurImages = Arrays.asList(R.drawable.tozeur, R.drawable.tozeur_folder_1, R.drawable.tozeur_folder_2, R.drawable.tozeur_folder_3, R.drawable.tozeur_folder_4, R.drawable.tozeur_folder_5);
-        List<Integer> kairouanImages = Arrays.asList(R.drawable.kairouan_1, R.drawable.kairouan);
+        List<Integer> kairouanImages = Arrays.asList(R.drawable.kairouan, R.drawable.kairouan_1);
         List<Integer> tabarkaImages = Arrays.asList(R.drawable.tabarka, R.drawable.tabarka_1, R.drawable.tabarka_2, R.drawable.tabarka_3, R.drawable.tabarka_4, R.drawable.tabarka_5);
         
         List<Integer> matmataImages = Arrays.asList(R.drawable.matmata_1, R.drawable.matmata_2, R.drawable.matmata_3, R.drawable.matmata_4);
@@ -261,7 +250,7 @@ public class MainActivity extends AppCompatActivity {
             allDestinations.add(new Destination("Hammamet", "Station balnéaire célèbre pour ses plages et sa médina.", "Nabeul / Hammamet", "Plage / Médina", hammametImages, 0, 36.4000, 10.6167, "- La Médina historique.\n- La Kasbah fortifiée.", "- Se détendre sur la plage.\n- Flâner dans les souks.", "Plat Traditionnel : Poisson grillé."));
             allDestinations.add(new Destination("Tozeur & Oasis du Sahara", "Superbes oasis de palmiers dattiers et portes du désert.", "Tozeur / Sud Tunisien", "Désert / Nature", tozeurImages, 0, 33.9197, 8.1335, "- La vieille médina.\n- Oasis de montagne.", "- Excursion en 4x4.\n- Calèche dans la palmeraie.", "Plat Traditionnel : Dattes Deglet Nour fraîches."));
             allDestinations.add(new Destination("Kairouan", "Ville sainte de l'Islam, célèbre pour sa Grande Mosquée.", "Kairouan", "Historique / Culture", kairouanImages, R.drawable.kairouan_plat, 35.6781, 10.0963, "- La Grande Mosquée d'Okba.\n- Bassins des Aghlabides.", "- Explorer l'artisanat des tapis.", "Plat Traditionnel : Makroudh de Kairouan (pâtisserie)."));
-            allDestinations.add(new Destination("Tabarka", "Connue pour ses aiguilles rocheuses et son château génois.", "Jendouba / Nord-Ouest", "Nature / Plage", tabarkaImages, 0, 36.9544, 8.7581, "- Les Aiguilles de Tabarka.\n- Le Fort Génois.", "- Plongée sous-marine.\n- Randonnée en forêt.", "Plat Traditionnel : Oursins frais & fruits de mer."));
+            allDestinations.add(new Destination("Tabarka", "Connue pour ses aiguilles rocheuses et son château génois.", "Jendouba / Nord-Ouest", "Nature / Beach", tabarkaImages, 0, 36.9544, 8.7581, "- Les Aiguilles de Tabarka.\n- Le Fort Génois.", "- Plongée sous-marine.\n- Randonnée en forêt.", "Plat Traditionnel : Oursins frais & fruits de mer."));
             allDestinations.add(new Destination("Matmata", "Maisons troglodytes souterraines uniques, décor de Star Wars.", "Gabès / Matmata", "Désert / Culture", matmataImages, R.drawable.matmata_plat, 33.5417, 9.9658, "- Maisons troglodytes.\n- Hôtel Sidi Driss (Star Wars).", "- Explorer l'architecture sous terre.\n- Rencontrer les Berbères.", "Plat Traditionnel : Pain Tabouna & Mlaoui."));
             allDestinations.add(new Destination("Bizerte", "Charmante ville portuaire du nord avec son vieux port.", "Bizerte", "Plage / Nature", bizerteImages, R.drawable.bizerte_plat, 37.2744, 9.8739, "- Le vieux port de pêche.\n- La Kasbah.", "- Se promener le long de la marina.\n- Se baigner à Cap Angela.", "Plat Traditionnel : Sandwich Lablabi & ragoût d'poulpe."));
             allDestinations.add(new Destination("Sousse", "Ville côtière historique avec un Ribat millénaire.", "Sousse", "Historical / Beach", sousseImages, 0, 35.8256, 10.6369, "- Le Ribat de Sousse.\n- La Grande Mosquée.", "- Shopping dans les souks.\n- Plage de Bou Jaafar.", "Plat Traditionnel : Couscous au poisson de Sousse."));
