@@ -88,6 +88,7 @@ drawable tozeur_folder_2
 drawable tozeur_folder_3
 drawable tozeur_folder_4
 drawable tozeur_folder_5
+drawable tozeur_plat
 id btnAr
 id btnDetailThemeToggle
 id btnEn

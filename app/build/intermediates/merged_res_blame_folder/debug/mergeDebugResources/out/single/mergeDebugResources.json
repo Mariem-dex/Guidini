@@ -76,6 +76,10 @@
         "source": "com.example.tunisiaguide.app-main-39:/drawable/tabarka_5.jpg"
     },
     {
+        "merged": "com.example.tunisiaguide.app-debug-37:/drawable_tozeur_plat.jpg.flat",
+        "source": "com.example.tunisiaguide.app-main-39:/drawable/tozeur_plat.jpg"
+    },
+    {
         "merged": "com.example.tunisiaguide.app-debug-37:/drawable_bizerte_3.jpg.flat",
         "source": "com.example.tunisiaguide.app-main-39:/drawable/bizerte_3.jpg"
     },
